@@ -10,3 +10,7 @@ Your goal is to try and satisfy the following design before cloning this project
 
 The shown numbers are to describe each proportionate(ratio) of the screen that the SizedBox or Expanded takes.  
 The shown colors with the numbers mentioned are to describe the color intensity of each container.
+
+# توضيح باللغة العربية
+على المتدرب الاستفادة من الأدوات المعطاة في الجلسة المقابلة لهذا النشاط ومحاولة تحقيق واجهة كما هو مبين في الصورة مع مراعاة أساليب كتابة الكود البرمجي وتعزيز التعليقات داخل الكود لتوضيح منهجية الحل المتبعة (علماً أنه من الممكن حل المشكلة بعدة طرق)
+### بعد الانتهاء من الحل يمكنك الاطلاع على حل المدرب 
